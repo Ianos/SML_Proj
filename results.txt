@@ -1,0 +1,11 @@
+myanaptyksi11.txt -- 0
+myanaptyksi12.txt -- 22
+myanaptyksi13.txt -- 231
+myanaptyksi14.txt -- 1952
+myanaptyksi15.txt -- 10435
+myanaptyksi16.txt -- 7468
+myanaptyksi17.txt -- 28032
+myanaptyksi18.txt -- 167982
+myanaptyksi19.txt -- -1
+myanaptyksi20.txt -- -1
+myanaptyksi21.txt -- 1000000
